@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/Led-Zeppelin1/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/Led-Zeppelin1/edit/master/README.md)
 
 [Coda](Coda/cd)
 
@@ -10,5 +10,8 @@
 
 [Presence](Presence)
 
+[The song remains the same/cd1](The song remains the same/cd1)
+
+[The song remains the same/cd2](The song remains the same/cd2)
 
 [https://littleflute.github.io/Led-Zeppelin](https://littleflute.github.io/Led-Zeppelin)
